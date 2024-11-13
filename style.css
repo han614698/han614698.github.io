@@ -1,3 +1,9 @@
-table, th, td {
-  border:1px solid black;
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  padding: 8px;
 }
