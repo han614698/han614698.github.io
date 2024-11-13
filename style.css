@@ -35,3 +35,6 @@ section::after {
   display: table;
   clear: both;
 }
+.pfp {
+  background-color: #aaaaaa;
+}
