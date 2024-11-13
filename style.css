@@ -8,3 +8,21 @@ td, th {
   padding: 8px;
   text-align: center;
 }
+nav {
+  float: left;
+  width: 20%;
+  background: #aaaaaa;
+  padding: 12px;
+}
+header {
+  background-color: #a9a9a9;
+  padding: 12px;
+  text-align: center;
+  color: white;
+}
+article {
+  float: left;
+  padding: 12px;
+  width: 80%;
+  background-color: #d3d3d3;
+}
