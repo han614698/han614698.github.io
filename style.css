@@ -28,6 +28,7 @@ article {
 }
 body {
   margin: none;
+  background-color: #d3d3d3;
 }
 section::after {
   content: "";
