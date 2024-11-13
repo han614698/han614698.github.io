@@ -21,8 +21,11 @@ header {
   color: white;
 }
 article {
-  float: left;
+  float: right;
   padding: 12px;
   width: 80%;
   background-color: #d3d3d3;
+}
+body {
+  margin: none;
 }
