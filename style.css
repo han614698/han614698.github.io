@@ -35,6 +35,6 @@ section::after {
   display: table;
   clear: both;
 }
-.pfp {
+#pfp {
   background-color: #dddddd;
 }
