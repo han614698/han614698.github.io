@@ -1,40 +1,4 @@
-table {
-  border-collapse: collapse;
-  width: 100%;
-}
-
-td, th {
-  border: 1px solid #dddddd;
-  padding: 8px;
-  text-align: center;
-}
-nav {
-  float: left;
-  width: 20%;
-  background: #aaaaaa;
-  padding: 12px;
-}
-header {
-  background-color: #a9a9a9;
-  padding: 12px;
-  text-align: center;
-  color: white;
-}
-article {
-  float: right;
-  padding: 12px;
-  width: 70%;
-  background-color: #d3d3d3;
-}
 body {
   margin: none;
   background-color: #d3d3d3;
-}
-section::after {
-  content: "";
-  display: table;
-  clear: both;
-}
-#pfp {
-  background-color: #dddddd;
 }
