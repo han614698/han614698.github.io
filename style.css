@@ -2,3 +2,7 @@ body {
   margin: none;
   background-color: #d3d3d3;
 }
+header {
+  background-color: #aaaaaa;
+  border-radius: 10px;
+}
