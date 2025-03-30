@@ -74,7 +74,7 @@ body {
   padding: 10px;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: top;
   background-color: none;
 }
 .box-title {
@@ -88,6 +88,18 @@ body {
   padding: 10px;
   border-radius: 10px;
   background-color: var(--charcoal);
+}
+.box-image {
+  border-radius: 10px;
+}
+a {
+  color: var(--yellow);
+  text-decoration: none; 
+  font-weight: bold;
+  cursor: pointer;
+}
+a:hover {
+  text-decoration: underline;
 }
 
 
